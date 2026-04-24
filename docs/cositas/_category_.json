@@ -1,0 +1,8 @@
+{
+  "label": "Mi categoría",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "La descripción de esta categoría."
+  }
+}
